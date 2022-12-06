@@ -11,8 +11,9 @@ def delay_print(s):
         time.sleep(0.25)
 
 delay_print("Neo.......መ ቀ ስ ቀ ስ    ት ፈ ል ጋ ለ ህ ን???")
+print("\n")
 
-ans = input("\nY/N?")
+ans = input("Y/N?")
 
 if ans == "Y":
 
